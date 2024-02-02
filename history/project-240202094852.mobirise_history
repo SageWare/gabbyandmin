@@ -60,8 +60,8 @@
       }
     ],
     "imageResize": false,
-    "favicon": false,
-    "mbrsiteDomain": "mvgspcbpnp",
+    "favicon": "@PROJECT_PATH@/assets/images/gabby-min-favicon-2.png",
+    "mbrsiteDomain": "quvz97ullg",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -73,7 +73,9 @@
     "versionPublish": "5.9.8",
     "screenshot": "screenshot.png",
     "modified": "2023-02-25T19:04:24.097Z",
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {

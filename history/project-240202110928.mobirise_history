@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Gabby & Min Publications",
-    "currentPage": "index.html",
+    "currentPage": "current-issue.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -60,8 +60,8 @@
       }
     ],
     "imageResize": false,
-    "favicon": false,
-    "mbrsiteDomain": "mvgspcbpnp",
+    "favicon": "@PROJECT_PATH@/assets/images/gabby-min-favicon-2.png",
+    "mbrsiteDomain": "quvz97ullg",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
