@@ -73,9 +73,7 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "modified": "2023-02-25T19:04:24.097Z",
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/sagef/Downloads/MOBIRISE%20NON-SYNC"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
